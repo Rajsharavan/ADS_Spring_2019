@@ -53,6 +53,8 @@ https://docs.google.com/presentation/d/1jFdPH0L-jbc2sboGsu5Tg3Jp6L2KdibOsiwRgi9i
 
 •	re
 
+Note : You will need AWS keys to run the data pipeline for Web_App_Final.py and Web_App_Final.ipynb
+
 ## Instructions to execute files :
 
 ### (Step 1) : Web Scraper
