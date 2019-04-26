@@ -29,7 +29,7 @@ Code : Consists of code files for executing every requirement as per the case st
 
 Data : The dataset populated after execution and analysis
 
-Report: A pdf version of CLAAT report
+Report: A pdf version of CLAAT report and report on Lending Club dataset
 
 Read me file
 
