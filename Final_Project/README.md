@@ -14,28 +14,44 @@ https://docs.google.com/presentation/d/1jFdPH0L-jbc2sboGsu5Tg3Jp6L2KdibOsiwRgi9i
 
 ## Before execution install below libraries:
 •	pandas
+
 •	numpy
+
 •	matplotlib
+
 •	LabelEncoder
+
 •	train_test_split
+
 •	CountVectorizer
+
 •	TfidfVectorizer
+
 •	svm
+
 •	metrics
+
 •	ConfusionMatrix
+
 •	pyplot
+
 •	f1_score
+
 •	roc_auc_score
+
 •	os
+
 •	sklearn
+
 •	seaborn
+
 •	itertools
+
 •	nltk
+
 •	string
-•	LogisticRegression
+
 •	re
-
-
 
 ## Instructions to execute files :
 
