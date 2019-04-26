@@ -5,47 +5,53 @@ The repository consists of case studies and final project performed under this c
 
 ### Assignment 1:
 ******************
-Goal : To conduct a study on the job openings in the top US Banks in the United States and analyze trends in the industry particularly in the area of Fintech
-
 Code : Consists of code files for executing every requirement as per the case study
 
 Data : The dataset populated from each execution
 
 Report: A pdf version of CLAAT report
 
+Read me file
 
 ### Assignment 2:
 **********************
 Code : Consists of code files for executing every requirement as per the case study
 
-Data : The dataset populated from each execution
+Data : The dataset populated after execution and analysis
 
 Report: A pdf version of CLAAT report
 
+Read me file
 
 ### Assignment 3:
 ********************
 Code : Consists of code files for executing every requirement as per the case study
 
-Data : The dataset populated from each execution
+Data : The dataset populated after execution and analysis
 
 Report: A pdf version of CLAAT report
+
+Read me file
 
 ### Assignment 4:
 ********************
 Code : Consists of code files for executing every requirement as per the case study
 
-Data : The dataset populated from each execution
+Data : The dataset populated after execution and analysis
 
 Report: A pdf version of CLAAT report
+
+Read me file
 
 ### Final Project:
 ********************
 Code : Consists of code files for executing every requirement as per the case study
 
-Data : The dataset populated from each execution
+Data : The dataset populated after execution and analysis
 
 Report: A pdf version of CLAAT report
+
+Read me file
 
 ### Presentation: Machine Learning Interpretability
 ***************************************************
