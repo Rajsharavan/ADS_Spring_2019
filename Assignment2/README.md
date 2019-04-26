@@ -1,5 +1,17 @@
 # Feature Engineering and Exploratory Data Analysis
 *******************************************************
+The goal of this exercise is to build a dataset with features that can be used to analyze hiring trends in Fintech in the 24 largest banks by market cap in the United States. 
+
+Primary tasks include:
+1. Aggregation of multiple datasets into a single dataset
+
+2. Build a list of 100 keywords in Fintech and assign Fintech categories to each keyword
+
+3. Tag if a job is a fintech related job or not
+
+4. Assign the categories as features to each job posting if it is a fintech related job
+
+5. Analyze the final dataset and document insights.
 
 ### Claat
 https://codelabs-preview.appspot.com/?file_id=1cwr2eN0y1F-XP3N0C8Y8hvvFrrLdNRP2uc0JpqfkvZ0#0
