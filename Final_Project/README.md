@@ -74,9 +74,3 @@ Generates different models and calculates metrics(F1 score, precision, recall, a
 
 ### (Step 4) : Webpage with FLask
 Creates a webpage for our model
-
-### (Step 5) : Dockerisation
-Docker image :
-
-### (Step 6) : Hosting
-
