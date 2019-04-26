@@ -13,6 +13,29 @@ https://codelabs-preview.appspot.com/?file_id=1xd8vRCw9T6i-hWz2pGcYMlJ7LkAFHb_A_
 https://docs.google.com/presentation/d/1jFdPH0L-jbc2sboGsu5Tg3Jp6L2KdibOsiwRgi9ihio/edit?usp=sharing
 
 ## Before execution install below libraries:
+•	pandas
+•	numpy
+•	matplotlib
+•	LabelEncoder
+•	train_test_split
+•	CountVectorizer
+•	TfidfVectorizer
+•	svm
+•	metrics
+•	ConfusionMatrix
+•	pyplot
+•	f1_score
+•	roc_auc_score
+•	os
+•	sklearn
+•	seaborn
+•	itertools
+•	nltk
+•	string
+•	LogisticRegression
+•	re
+
+
 
 ## Instructions to execute files :
 
