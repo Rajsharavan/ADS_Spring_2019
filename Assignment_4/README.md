@@ -28,7 +28,7 @@ Dataset used to calculate the metrics for the model
 Tone_For_CSV.ipynb - Task is to use Musixmatch API and get the top k list for these 3 countries. And also fetch lyrics for that. For accessing API, need to create an account on Musixmatch, which will generate an API key for accessing lyrics from their site.
 
 #### Step2:
-After this, once we have list need to identify the tone of the songs, for that, we used tone analyzer API from an IBM Watson developer. We created an account on IBM Cloud and created an API key for getting authorization for API and used the key in our code. We got different tones but as per our requirement, checked score for Happy and sad emotion and whichever is higher kept that as an emotion of the song.
+Once we have the list to identify the tone of the songs, we use tone analyzer API from an IBM Watson developer to identify the tone. We created an account on IBM Cloud and created an API key for getting authorization for API and used the key in our code. We got different tones but as per our requirement, checked score for Happy and Sad emotion and whichever is higher kept that as an emotion of the song.
 
 #### Step 3:
 Hosting our website on the Heroku platform.
