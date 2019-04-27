@@ -74,3 +74,8 @@ Generates different models and calculates metrics(F1 score, precision, recall, a
 
 ### (Step 4) : Webpage with FLask
 Creates a webpage for our model
+
+### (Step 4) : Docker Image
+maneendar/luigidatapipeline6
+sharavan27/ads-flask-image
+
